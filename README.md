@@ -1,7 +1,7 @@
 # Bondi
 ## A fully responsive web page built using HTML&CSS&BootStrap 5
 ---
-You can try it out [here](https://kareemgamal1.github.io/Bondi-landing-page/)
+You can try it out [here](https://kareemgamal1.github.io/Bondi-Landing-Page/)
 ___
 
 
